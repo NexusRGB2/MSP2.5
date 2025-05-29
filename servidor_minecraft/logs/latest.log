@@ -1741,3 +1741,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [29May2025 21:26:02.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Set own game mode to Creative Mode]
 [29May2025 21:26:06.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /tp MichyVT
 [29May2025 21:26:06.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Teleported NexusRGB_ to MichyVT]
+[29May2025 21:52:54.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode survival
+[29May2025 21:52:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Set own game mode to Survival Mode]
+[29May2025 21:52:58.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ issued server command: /gamemode creative
+[29May2025 21:52:58.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NexusRGB_: Set own game mode to Creative Mode]
+[29May2025 21:53:44.294] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player MichyVT is 793efba2-4546-31b5-9839-09ddb52c096c
+[29May2025 21:53:53.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MichyVT lost connection: Timed out
+[29May2025 21:53:53.075] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 793efba2-4546-31b5-9839-09ddb52c096c was unloaded
+[29May2025 21:53:53.079] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client MichyVT
+[29May2025 21:53:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MichyVT left the game.
+[29May2025 21:53:53.135] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29May2025 21:53:54.241] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MichyVT[/127.48.93.250:56381] logged in with entity id 5383 at (96.50883682713832, 68.0, -591.571424100009)
+[29May2025 21:53:54.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MichyVT joined the game
+[29May2025 21:53:55.634] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of MichyVT (18)
+[29May2025 21:53:55.634] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to MichyVT
+[29May2025 21:53:55.651] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 793efba2-4546-31b5-9839-09ddb52c096c was loaded
+[29May2025 21:53:55.651] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [MichyVT]
+[29May2025 21:53:55.651] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [MichyVT]
+[29May2025 21:54:09.138] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [MichyVT]
+[29May2025 21:54:09.138] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [MichyVT]
+[29May2025 21:54:10.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ lost connection: Disconnected
+[29May2025 21:54:10.721] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was unloaded
+[29May2025 21:54:10.721] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NexusRGB_
+[29May2025 21:54:10.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ left the game
