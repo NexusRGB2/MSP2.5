@@ -1682,3 +1682,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [30May2025 04:45:00.031] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was loaded
 [30May2025 04:45:00.032] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [NexusRGB_]
 [30May2025 04:45:00.032] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [NexusRGB_]
+[30May2025 05:14:19.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NexusRGB_ lost connection: Disconnected
+[30May2025 05:14:19.428] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 68cb15d9-37b7-3236-9f84-21f913fd77bf was unloaded
+[30May2025 05:14:19.432] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NexusRGB_
+[30May2025 05:14:19.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NexusRGB_ left the game
