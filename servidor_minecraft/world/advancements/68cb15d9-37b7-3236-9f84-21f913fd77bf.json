@@ -1,11 +1,4 @@
 {
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "scrubland": "2025-05-29 21:24:33 +0000",
-      "lavender_field": "2025-05-29 21:26:07 +0000"
-    },
-    "done": false
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-05-29 21:24:32 +0000"
@@ -45,12 +38,6 @@
     },
     "done": true
   },
-  "farm_and_charm:main/root": {
-    "criteria": {
-      "example_criterion": "2025-05-29 21:24:33 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-05-29 21:24:32 +0000"
@@ -72,12 +59,6 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-05-29 21:24:32 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "scrubland": "2025-05-29 21:24:33 +0000"
     },
     "done": true
   },
@@ -123,6 +104,25 @@
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-05-29 21:24:32 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "scrubland": "2025-05-29 21:24:33 +0000",
+      "lavender_field": "2025-05-29 21:26:07 +0000"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-05-29 21:24:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "scrubland": "2025-05-29 21:24:33 +0000"
     },
     "done": true
   },
